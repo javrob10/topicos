@@ -1,0 +1,12 @@
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\bin\Debug\netcoreapp3.1\JavierNetCore.deps.json
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\bin\Debug\netcoreapp3.1\JavierNetCore.dll
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\bin\Debug\netcoreapp3.1\JavierNetCore.pdb
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\obj\Debug\netcoreapp3.1\JavierNetCore.csprojAssemblyReference.cache
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\obj\Debug\netcoreapp3.1\JavierNetCore.AssemblyInfoInputs.cache
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\obj\Debug\netcoreapp3.1\JavierNetCore.AssemblyInfo.cs
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\obj\Debug\netcoreapp3.1\JavierNetCore.csproj.CoreCompileInputs.cache
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\obj\Debug\netcoreapp3.1\JavierNetCore.dll
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\obj\Debug\netcoreapp3.1\JavierNetCore.pdb
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\bin\Debug\netcoreapp3.1\JavierNetCore.runtimeconfig.json
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\bin\Debug\netcoreapp3.1\JavierNetCore.runtimeconfig.dev.json
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\JavierNetCore\obj\Debug\netcoreapp3.1\JavierNetCore.genruntimeconfig.cache

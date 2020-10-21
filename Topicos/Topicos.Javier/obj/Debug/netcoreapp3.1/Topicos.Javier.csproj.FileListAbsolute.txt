@@ -1,0 +1,12 @@
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\bin\Debug\netcoreapp3.1\Topicos.Javier.deps.json
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\bin\Debug\netcoreapp3.1\Topicos.Javier.dll
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\obj\Debug\netcoreapp3.1\Topicos.Javier.AssemblyInfoInputs.cache
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\obj\Debug\netcoreapp3.1\Topicos.Javier.AssemblyInfo.cs
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\bin\Debug\netcoreapp3.1\Topicos.Javier.runtimeconfig.json
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\bin\Debug\netcoreapp3.1\Topicos.Javier.runtimeconfig.dev.json
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\obj\Debug\netcoreapp3.1\Topicos.Javier.csprojAssemblyReference.cache
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\obj\Debug\netcoreapp3.1\Topicos.Javier.genruntimeconfig.cache
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\bin\Debug\netcoreapp3.1\Topicos.Javier.pdb
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\obj\Debug\netcoreapp3.1\Topicos.Javier.csproj.CoreCompileInputs.cache
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\obj\Debug\netcoreapp3.1\Topicos.Javier.dll
+C:\Users\javro\source\repos\2020-3-Topicos\Topicos\Topicos.Javier\obj\Debug\netcoreapp3.1\Topicos.Javier.pdb
